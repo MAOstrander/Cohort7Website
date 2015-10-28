@@ -13,4 +13,3 @@ Site is currently hosted at [cohort7.nashvillesoftwareschool.com](http://cohort7
 
 ##More Tips
 -made originally from the Skinny Bones theme. Here's the [documentation](https://mmistakes.github.io/skinny-bones-jekyll/getting-started/)
-
